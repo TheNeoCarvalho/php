@@ -1,0 +1,104 @@
+1 Bimestre - PHP
+PHP
+  - Backend
+  - Apache
+  - Paradigma: OO
+
+Preparando Ambiente
+	- Instalando XAMPP
+	- Iniciando serviço do apache
+  - Windows e Linux
+    - Diferenças
+
+Comandos de saída
+	- print
+	- echo
+	- print_r
+	- var_dump
+  - Exercícios
+
+Variáveis e tipos de dados
+  - variáveis e constantes
+  - Tipos de variáveis
+    - String
+    - numéricas (inteiros e ponto flutuante)
+    - Booleanas
+  - Exercícios
+
+Operadores
+  - Aritiméticos
+  - Relacionais
+  - Booleanos
+  - Lógicos
+
+Arrays
+  - manipulando Arrays
+    - pop
+    - push
+    - slice
+    - filter
+    - sort
+Lista
+  - Conceitos
+
+Pilha
+  - Conceitos
+
+Estruturas de controle
+  - if
+  - if/else
+  - switch/case
+
+Estruturas de repetição
+  - for
+  - while
+  - foreach
+
+Funções
+  - anônimas
+  - seme com parâmetros
+
+Projetos
+  - Quiz
+  - Blog
+  - Chat
+  - Carrinho de Compras
+  - Mais 2 projetos a definir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 Bimestre - JS
+
+Preparando Ambiente
+
+Comandos de saída
+
+Variáveis e tipos de dados
+
+Operadores
+
+Arrays
+
+Estruturas de controle
+
+Estruturas de repetição
+
+Funções
